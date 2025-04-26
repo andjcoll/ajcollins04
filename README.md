@@ -1,10 +1,10 @@
 ## Hi there 👋
-- 📜 I'm starting my last year in Computer Science
-- 🌱 I’m learning programming languages and database applications
-- 🔭 I’m currently working on a CLI wire simulator in Go called [wirelab](https://github.com/ajcollins04/wirelab) 
+- 📜 I'm a graduating senior in Computer Science
+- 💼 I’m looking for a full-time Software Development position
+- 🦀 I'm looking to contribute to Rust projects
 
 <!--
-**ajcollins04/ajcollins04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**andjcoll/andjcoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
