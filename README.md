@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 📜 I'm a graduating senior in Computer Science
-- 💼 I’m looking for a full-time Software Development position [(Resume)](https://andjcoll.github.io/andjcoll/)
+- 💼 I’m looking for a full-time Software Development position [(Resume)](https://andjcoll.github.io/andjcoll/Andrew_Collins_resume.pdf)
 - 🦀 I'm looking to contribute to Rust projects
 
 <!--
